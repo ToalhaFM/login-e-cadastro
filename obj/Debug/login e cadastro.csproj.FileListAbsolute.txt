@@ -1,0 +1,10 @@
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\bin\Debug\login e cadastro.exe.config
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\bin\Debug\login e cadastro.exe
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\bin\Debug\login e cadastro.pdb
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\obj\Debug\login e cadastro.csprojAssemblyReference.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\obj\Debug\login_e_cadastro.Form1.resources
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\obj\Debug\login_e_cadastro.Properties.Resources.resources
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\obj\Debug\login e cadastro.csproj.GenerateResource.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\obj\Debug\login e cadastro.csproj.CoreCompileInputs.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\obj\Debug\login e cadastro.exe
+C:\Users\jeova\OneDrive\Área de Trabalho\login projeto\login e cadastro\obj\Debug\login e cadastro.pdb
